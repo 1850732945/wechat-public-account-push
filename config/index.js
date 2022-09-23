@@ -20,7 +20,7 @@ export const USER_CONFIG = {
   // 功能开关,打开：true，关闭：false
   SWITCH: {
     /** 每日天气 */
-    weather: true,
+    weather:true,
     
     /** 节假日 */
     // 下一休息日综合提醒
@@ -98,7 +98,7 @@ export const USER_CONFIG = {
     {
       name: "宝宝",
       id: "o-_xX6wtKxzfNMD4lV_rp-Y1FvpM",
-      useTemplateId: "	pWrJBu-oYXqlCsqCxEVxGHs4AuJ0DKKlsmspj46vSFI",
+      useTemplateId: "pWrJBu-oYXqlCsqCxEVxGHs4AuJ0DKKlsmspj46vSFI",
       province: "福建省",
       city: "厦门市",
       horoscopeDate: '03-01',
@@ -138,9 +138,9 @@ export const USER_CONFIG = {
   /** 天气相关 */
   
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广东",
+  PROVINCE: "福建",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "厦门",
   
   /** 重要节日相关 */
   
