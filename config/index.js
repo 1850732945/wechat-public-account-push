@@ -51,7 +51,7 @@ export const USER_CONFIG = {
   
   // 每日一言的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
- 
+  LITERARY_PREFERENCE: "",
   
   
   /**
@@ -60,7 +60,7 @@ export const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "高宇慧",
+      name: "宝宝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o-_xX6wtKxzfNMD4lV_rp-Y1FvpM",
       // 你想对他发送的模板消息的模板ID
@@ -94,7 +94,7 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "高宇慧",
+      name: "宝宝",
       id: "o-_xX6wtKxzfNMD4lV_rp-Y1FvpM",
       useTemplateId: "	pWrJBu-oYXqlCsqCxEVxGHs4AuJ0DKKlsmspj46vSFI",
       province: "福建",
