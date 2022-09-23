@@ -67,9 +67,9 @@ export const USER_CONFIG = {
       useTemplateId: "",
       useTemplateId: "pWrJBu-oYXqlCsqCxEVxGHs4AuJ0DKKlsmspj46vSFI",
       // 所在省份
-      province: "福建",
+      province: "福建省",
       // 所在城市
-      city: "厦门",
+      city: "厦门市",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '03-01',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -100,8 +100,8 @@ export const USER_CONFIG = {
       id: "o-_xX6wtKxzfNMD4lV_rp-Y1FvpM",
       useTemplateId: "	pWrJBu-oYXqlCsqCxEVxGHs4AuJ0DKKlsmspj46vSFI",
  
-      province: "福建",
-      city: "厦门",
+      province: "福建省",
+      city: "厦门市",
       horoscopeDate: '03-01',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
