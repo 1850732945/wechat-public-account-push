@@ -64,7 +64,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o-_xX6wtKxzfNMD4lV_rp-Y1FvpM",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "",
+      useTemplateId: "pWrJBu-oYXqlCsqCxEVxGHs4AuJ0DKKlsmspj46vSFI",
       // 所在省份
       province: "福建",
       // 所在城市
@@ -98,8 +98,8 @@ export const USER_CONFIG = {
       name: "高宇慧",
       id: "o-_xX6wtKxzfNMD4lV_rp-Y1FvpM",
       useTemplateId: "	pWrJBu-oYXqlCsqCxEVxGHs4AuJ0DKKlsmspj46vSFI",
-      province: "福建省",
-      city: "厦门市",
+      province: "福建",
+      city: "厦门",
       horoscopeDate: '03-01',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
