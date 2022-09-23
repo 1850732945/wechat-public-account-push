@@ -62,7 +62,7 @@ export const USER_CONFIG = {
       // 想要发送的人的名字
       name: "宝宝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o-_xX6wtKxzfNMD4lV_rp-Y1FvpM",
+      id: "o-_xX68dq3on73q1frYpIRytysxI",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "pWrJBu-oYXqlCsqCxEVxGHs4AuJ0DKKlsmspj46vSFI",
       // 所在省份
@@ -96,7 +96,7 @@ export const USER_CONFIG = {
     },
     {
       name: "宝宝",
-      id: "o-_xX6wtKxzfNMD4lV_rp-Y1FvpM",
+      id: "o-_xX68dq3on73q1frYpIRytysxI",
       useTemplateId: "	pWrJBu-oYXqlCsqCxEVxGHs4AuJ0DKKlsmspj46vSFI",
       province: "福建省",
       city: "厦门市",
