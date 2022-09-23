@@ -99,7 +99,6 @@ export const USER_CONFIG = {
       name: "宝宝",
       id: "o-_xX6wtKxzfNMD4lV_rp-Y1FvpM",
       useTemplateId: "	pWrJBu-oYXqlCsqCxEVxGHs4AuJ0DKKlsmspj46vSFI",
- 
       province: "福建省",
       city: "厦门市",
       horoscopeDate: '03-01',
